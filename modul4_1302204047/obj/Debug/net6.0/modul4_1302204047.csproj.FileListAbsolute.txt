@@ -1,0 +1,15 @@
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\bin\Debug\net6.0\modul4_1302204047.exe
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\bin\Debug\net6.0\modul4_1302204047.deps.json
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\bin\Debug\net6.0\modul4_1302204047.runtimeconfig.json
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\bin\Debug\net6.0\modul4_1302204047.dll
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\bin\Debug\net6.0\modul4_1302204047.pdb
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.csproj.AssemblyReference.cache
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.AssemblyInfoInputs.cache
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.AssemblyInfo.cs
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.csproj.CoreCompileInputs.cache
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.dll
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\refint\modul4_1302204047.dll
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.pdb
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\modul4_1302204047.genruntimeconfig.cache
+C:\Users\anugr\source\repos\modul4_1302204047\modul4_1302204047\obj\Debug\net6.0\ref\modul4_1302204047.dll
